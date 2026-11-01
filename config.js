@@ -21,7 +21,7 @@ module.exports = {
   ALIVE_DATA: process.env.ALIVE_DATA || '👋 ʜᴇʏ &sender, ɪ ᴍ *Jibin George* ᴀʟɪᴠᴇ ɴᴏᴡ!\n\n📌 ᴛʏᴘᴇ *menu* ᴛᴏ ɢᴇᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʟɪꜱᴛ.\n\n*ᴘʟᴀᴛꜰᴏʀᴍ:* &platform\n*ʀᴜɴᴛɪᴍᴇ:* &runtime;https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg',
   AUDIO_DATA: process.env.AUDIO_DATA || 'l5.36l-MD;https://https://ibb.co/LXnby8rS/IMG-20231128-WA0005.jpg',
   BOT_INFO: process.env.BOT_INFO || 'l5.36l-MD;Jibin George;916282901625;https://https://ibb.co/NXPqTwR/IMG-20231128-WA0005.jpg', 
-  PREFIX: process.env.PREFIX || '.', //Type false to use without prerix
+  PREFIX: process.env.PREFIX || '🦇', //Type false to use without prerix
   MODE: process.env.MODE || 'private', //Type public to change bot mode to public
   SUDO: process.env.SUDO || '916282901625',
   ELEVENLABS_API_KEY: process.env.ELEVENLABS_API_KEY || '',
